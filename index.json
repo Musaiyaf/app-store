@@ -1,10 +1,10 @@
 [
   {
-    "id": "cardodge",
-    "name": "Car Dodge",
+    "id": "sdmanager",
+    "name": "SD Manager",
     "version": "1.0",
-    "author": "Musaiyaf",
-    "desc": "Dodge traffic! LFT/RHT steer",
-    "size": 11747
+    "author": "musaiyaf",
+    "desc": "Colourful SD card file manager",
+    "size": 3200
   }
 ]
