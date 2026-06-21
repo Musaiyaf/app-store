@@ -1,6 +1,10 @@
 [
-  { "id":"hello",    "name":"Hello World", "version":"1.0", "author":"musaiyaf", "desc":"Classic greeter demo for the App Store.", "size":232 },
-  { "id":"countdown","name":"Countdown",   "version":"1.0", "author":"musaiyaf", "desc":"Counts down from 5 then beeps. Loop + delay demo.", "size":268 },
-  { "id":"coinflip", "name":"Coin Flip",   "version":"1.1", "author":"musaiyaf", "desc":"Flips a virtual coin. Math.random() demo.", "size":253 }
-  { "id":"heist",    "name":"Street Hustle","version":"1.0", "author":"musaiyaf", "desc":"Risk vs reward heist game. Pick jobs, dodge heat, cash out before you get busted.", "size":1522 }
+  {
+    "id": "cardodge",
+    "name": "Car Dodge",
+    "version": "1.0",
+    "author": "Musaiyaf",
+    "desc": "Dodge traffic! LFT/RHT steer",
+    "size": 11747
+  }
 ]
