@@ -1,3 +1,0 @@
-{ "name":"Coin Flip", "version":"1.1", "author":"musaiyaf",
-  "desc":"Flips a virtual coin. Math.random() demo.",
-  "script":"print('Flipping coin...');\ndelay(400);\nvar result = Math.random() < 0.5 ? 'Heads' : 'Tails';\nprint('Result: ' + result);" }
